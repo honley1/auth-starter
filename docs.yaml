@@ -7,6 +7,9 @@ info:
 servers:
   - url: http://localhost:7788
     description: Localhost
+  - url: https://thehonley.org
+    description: Prod
+
 
 paths:
   /api/auth/register:
